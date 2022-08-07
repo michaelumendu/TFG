@@ -1,4 +1,4 @@
-step;N_subasta;mes_subastado;slots_ofertados;ronda;N total de ronda;fee;excess %
+step;N_subasta;mes_subastado;slots_ofertados;ronda;N total de ronda;fee;excess%
 1;1;1;10;1;20;;
 2;1;1;10;2;20;;
 3;1;1;10;3;20;;
